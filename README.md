@@ -46,7 +46,7 @@
 
 ## Запуск
 
-python main.py
+python3 main.py
 
 После запуска:
 - Произойдёт авторизация через код Telegram
